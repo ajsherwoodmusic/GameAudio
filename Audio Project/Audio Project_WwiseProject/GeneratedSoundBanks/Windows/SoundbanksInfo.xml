@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>F:\Users\Huffdog_2\Documents\Unity Projects\PersonalProjects\Testing\Audio Project\Audio Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>F:\Users\Huffdog_2\Documents\Unity Projects\PersonalProjects\Testing\Audio Project\Audio Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Users\Huffdog_2\Documents\Unity Projects\PersonalProjects\Testing\Audio Project\Audio Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\Users\Huffdog_2\Documents\Unity Projects\PersonalProjects\Testing\Audio Project\Audio Project_WwiseProject\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="151053129" Language="SFX">
+					<ShortName>Footstep04.wav</ShortName>
+					<Path>SFX\Footstep04_1C9C67B2.wem</Path>
+				</File>
+				<File Id="356020775" Language="SFX">
+					<ShortName>Footstep02.wav</ShortName>
+					<Path>SFX\Footstep02_1C9C67B2.wem</Path>
+				</File>
+				<File Id="744141173" Language="SFX">
+					<ShortName>Footstep03.wav</ShortName>
+					<Path>SFX\Footstep03_1C9C67B2.wem</Path>
+				</File>
+				<File Id="1042528731" Language="SFX">
+					<ShortName>Footstep01.wav</ShortName>
+					<Path>SFX\Footstep01_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
